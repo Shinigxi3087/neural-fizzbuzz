@@ -32,7 +32,7 @@ Here, we use it as a classification problem for a neural net.
 
 ### 1. Clone and navigate to the project:
 ```bash
-git clone https://github.com/your-username/neural-fizzbuzz.git
+git clone https://github.com/shinigxmi3087/neural-fizzbuzz.git
 cd neural-fizzbuzz
 ```
 
